@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalles del Cliente</title>
+</head>
+<body>
+    <h1>Información del Cliente</h1>
+    <div>
+        <p><strong>ID:</strong> <span th:text="${client.id}"></span></p>
+        <p><strong>Nombre:</strong> <span th:text="${client.nombre}"></span></p>
+        <p><strong>Correo Electrónico:</strong> <span th:text="${client.correo}"></span></p>
+    </div>
+    <a href="/">Volver a la lista de clientes</a>
+</body>
+</html>
