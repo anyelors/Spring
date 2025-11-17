@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CursoApplication",
+            "request": "launch",
+            "mainClass": "com.cursojava.curso.CursoApplication",
+            "projectName": "curso"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-SpringbootAplicationApplication<springboot-aplication>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
