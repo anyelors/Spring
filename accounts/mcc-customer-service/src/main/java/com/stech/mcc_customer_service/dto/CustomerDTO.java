@@ -1,4 +1,4 @@
-package com.stech.mcc_account_service.dto;
+package com.stech.mcc_customer_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

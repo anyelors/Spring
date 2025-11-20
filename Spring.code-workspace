@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../xampp/htdocs/eva1"
+		},
+		{
+			"path": "../C"
+		},
+		{
+			"path": "../NodeJS"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../React"
+		},
+		{
+			"path": "../Java"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "NodeJS",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

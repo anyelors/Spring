@@ -1,4 +1,4 @@
-package com.stech.mcc_account_service.util;
+package com.stech.mcc_customer_service.util;
 
 import java.util.List;
 
