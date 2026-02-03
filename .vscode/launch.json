@@ -16,6 +16,16 @@
             "projectName": "springboot-aplication",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootBackendApirestElpisitoApplication<springboot-backend-apirest-elpisito>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ipartek.springboot.backend.apirest.elpisito.SpringbootBackendApirestElpisitoApplication",
+            "projectName": "springboot-backend-apirest-elpisito",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
