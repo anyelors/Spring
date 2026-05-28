@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "../Java"
+		},
+		{
+			"path": "../../PL_SQL/skills"
 		}
 	],
 	"settings": {
